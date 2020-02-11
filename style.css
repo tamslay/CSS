@@ -1,0 +1,16 @@
+h1 {text-transform: capitalize; color: red; text-align: center }
+#cap{text-transform: uppercase;}
+#contact{line-height: 0cm; text-transform: capitalize; text-align: center; }
+
+h2{text-transform: uppercase; color: red}
+h4{text-transform: capitalize; line-height: 0cm;}
+#float{
+    float: right;
+}
+#a{ margin-left: 40px};
+
+
+#dash{
+    border-style: dashed;
+}
+#par{text-transform: capitalize;}
